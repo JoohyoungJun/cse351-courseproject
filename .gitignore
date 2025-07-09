@@ -1,0 +1,7 @@
+# Jupyter notebook output files
+.ipynb_checkpoints/
+
+# other files
+
+*.pdf
+*.pptx
